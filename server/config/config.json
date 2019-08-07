@@ -1,9 +1,0 @@
-{
-  "development": {
-    "username": "gardenia",
-    "password": "1123581321",
-    "database": "gardenia_DB",
-    "host": "gardeniadb.cp7yuezllbcq.us-east-1.rds.amazonaws.com",
-    "dialect": "postgres"
-  }
-}
